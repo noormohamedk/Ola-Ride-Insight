@@ -1,5 +1,3 @@
-# Ola-Ride-Insights
-
 # OLA Ride Insights Dashboard
 
 An end-to-end Data Analytics project that analyzes OLA ride booking data and generates actionable business insights using **MySQL, SQL, Python, Power BI, and Streamlit**.
